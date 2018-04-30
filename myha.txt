@@ -1,0 +1,14 @@
+just a piece of cake!
+How ? 
+hello, ^_^ are you doing?
+<h1> </h1> 
+#test
+if (x > 4) {
+    aha; if ([[]])
+}
+
+if () {
+    sxxx  :
+}
+<html>
+</html>
